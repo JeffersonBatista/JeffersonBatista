@@ -8,7 +8,7 @@ Estou no último semestre do curso de Análise e Desenvolvimento de Sistemas, at
 
 - 🔭 Ainda não tenho experiência na área, apenas projetos pessoais e acadêmicos.
 - 🌱 Estou estudando NodeJs e conhecendo um pouco de ReactJs através de um bootcamp que estou participando.
-- 🤝 Estou disposto a me didicar ao aprendizado constante, acredito que conhecimento nunca é demais.
+- 🤝 Estou disposto a me dedicar ao aprendizado constante, acredito que conhecimento nunca é demais.
 
 ## Tecnologias e ferramentas 💻
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
