@@ -4,18 +4,19 @@
 
 ### Olá 👋
 
-Estou no último semestre do curso de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento JAVA.
+Formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul, focado em desenvolvimento Web.
 
-- 🔭 Ainda não tenho experiência na área, apenas projetos pessoais e acadêmicos.
-- 🌱 Estou estudando JAVA e pretendo aprofundar meus conhecimentos para dominar a linguagem.
-- 🤝 Estou disposto a me dedicar ao aprendizado constante, acredito que conhecimento nunca é demais.
+- 🔭 Não tenho experiência na área, apenas projetos pessoais e acadêmicos.
+- 🌱 Estudo Javascript e pretendo aprofundar meus conhecimentos para dominar a linguagem no frontend e backend.
+- 🤝 EMe dedico ao aprendizado constante, todo conhecimento é bem vindo, e nunca é demais.
+
+"A mente que se expande a uma nova idéia, jamais voltará ao seu tamanho original..." Albert Einstein
 
 ## Tecnologias e ferramentas 💻
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
