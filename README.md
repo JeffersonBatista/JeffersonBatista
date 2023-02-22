@@ -8,7 +8,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Cruzeiro
 
 - 🔭 Não tenho experiência na área, apenas projetos pessoais e acadêmicos.
 - 🌱 Estudo Javascript e pretendo aprofundar meus conhecimentos para dominar a linguagem no frontend e backend.
-- 🤝 EMe dedico ao aprendizado constante, todo conhecimento é bem vindo, e nunca é demais.
+- 🤝 Me dedico ao aprendizado constante, todo conhecimento é bem vindo, e nunca é demais.
 
 "A mente que se expande a uma nova idéia, jamais voltará ao seu tamanho original..." Albert Einstein
 
